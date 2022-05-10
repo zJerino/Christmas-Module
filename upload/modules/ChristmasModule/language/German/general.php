@@ -4,7 +4,7 @@ $language = array(
     'title' => 'Weihnachts-Modul',
 
     // Mensajes
-    'change_config' => 'Konfigurationsdateio wählen',
+    'change_config' => 'Konfigurationsdatei wählen',
     'upload_btn' => 'Datei wählen',
     'file_name' => 'Datei gewählt: ',
     'gen_config' => 'Konfiguration generieren',
